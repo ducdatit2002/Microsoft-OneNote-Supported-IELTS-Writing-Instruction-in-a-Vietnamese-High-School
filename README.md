@@ -1,4 +1,38 @@
-# Reference Titles
+# Microsoft OneNote-Supported IELTS Writing Instruction in a Vietnamese High School
+
+## Paper title
+
+**Microsoft OneNote-Supported IELTS Writing Instruction in a Vietnamese High School: A 36-Week Quasi-Experimental Case Study**
+
+## Authors
+
+### Quang Tran Dang Duy
+
+International Department, UK Academy Binh Thanh — The International Bilingual School, Vietnam  
+Email: [quangtdd.binhthanh@uka.edu.vn](mailto:quangtdd.binhthanh@uka.edu.vn)
+
+### Duc Dat Pham
+
+High School for the Gifted, Ho Chi Minh City, Vietnam  
+University of Science, Ho Chi Minh City, Vietnam  
+Vietnam National University Ho Chi Minh City, Vietnam  
+Email: [pddat@ptnk.edu.vn](mailto:pddat@ptnk.edu.vn)
+
+### Tan Duy Le\*
+
+International University, VNU-HCM, Ho Chi Minh City, Vietnam  
+Vietnam National University Ho Chi Minh City, Vietnam  
+Email: [ldtan@hcmiu.edu.vn](mailto:ldtan@hcmiu.edu.vn)
+
+\*Corresponding author
+
+## Abstract
+
+Technology-enhanced writing instruction has gained increasing attention in EFL contexts, yet limited empirical evidence has examined the role of digital note-taking platforms in IELTS-oriented writing classrooms. This study investigates the use of Microsoft OneNote as a digital writing workspace for Grade 10 EFL learners in Vietnam. A structured literature review was first conducted to identify recent trends and gaps in technology-supported writing instruction. The empirical phase adopted a 36-week quasi-experimental case study with 28 students at a Vietnamese high school. The experimental group (*n* = 16) used OneNote for drafting, teacher feedback, peer interaction, and revision, while the control group (*n* = 12) received paper-based instruction. Data were collected through pre-test, mid-test, and post-test IELTS writing tasks, together with a 5-point Likert-scale perception questionnaire. Descriptive results showed that the experimental group improved from 3.78 to 4.94, representing a 1.16-band gain, whereas the control group increased from 3.42 to 3.79, representing a 0.37-band gain. Students also reported positive perceptions of OneNote, particularly its auto-saving function, timely feedback, and support for organization. The findings suggest that OneNote may support process-oriented IELTS writing instruction, although further studies with larger samples and inferential analysis are needed.
+
+**Keywords:** Microsoft OneNote, technology-enhanced language learning, IELTS writing, collaborative writing, quasi-experimental design.
+
+## Reference Titles
 
 This repository provides article and document titles for reference only. Full-text files are not distributed through this repository.
 
